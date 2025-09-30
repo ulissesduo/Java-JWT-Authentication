@@ -47,8 +47,8 @@ This project demonstrates secure login, registration, and role-based access cont
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/<your-username>/<your-repo-name>.git](https://github.com/ulissesduo/Java-JWT-Authentication.git
+cd <Java-JWT-Authentication>
 
 
 API Endpoints:
